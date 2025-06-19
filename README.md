@@ -1,7 +1,7 @@
 # CS50’s Introduction to Programming with Python
 [![Certificate](./static/CS50P.png)](https://certificates.cs50.io/9736887e-5a8f-4918-ac4c-ae57127674e7.pdf?size=letter)
-### These are my solutions for CS50's Introduction to Programming with Python 2022.
-### Final Project: [Currency Convertor](https://youtu.be/0nU4Cz2JodY)
+### These are my solutions for CS50's Introduction to Programming with Python.
+### Final Project: [Currency Convertor](https://github.com/mohanadmuhyi/currency-convertor)
 <br/>
 
 ## :warning: Disclaimer:
